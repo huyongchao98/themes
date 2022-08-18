@@ -4,7 +4,7 @@ import (
 	"html/template"
 	"strings"
 
-	adminTemplate "github.com/GoAdminGroup/go-admin/template"
+	adminTemplate "github.com/huyongchao98/go-admin/template"
 )
 
 type SmallBox struct {
